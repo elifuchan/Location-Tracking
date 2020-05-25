@@ -1,0 +1,17 @@
+{
+  "name": "sv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongo-update": "^1.1.0",
+    "mongodb": "^3.5.7",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.1.0"
+  }
+}
