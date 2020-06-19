@@ -1,6 +1,6 @@
 # Chi-Pet
 
-Lokasyon takip projesi mobil ve web uygulamalari.
+ Evcil Hayvan Takip Sistemi -Lokasyon takip projesi mobil ve web uygulamalari.
 
 ## Neden?
 
