@@ -4,6 +4,7 @@ import Home from '../screens/home';
 import Hakkinda from '../screens/Hakkinda';
 import Map from '../Harita'
 
+
 const screens = {
   Home: {
     screen: Home,
